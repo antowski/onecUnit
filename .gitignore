@@ -1,0 +1,12 @@
+NEWSTRU/
+report/
+syslog/
+*.LCK
+*.MD
+*.DD
+*.DDS
+*.lst
+*.CFG
+*.DBF
+*.CDX
+*.st
