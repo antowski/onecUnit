@@ -2,7 +2,7 @@ NEWSTRU/
 report/
 syslog/
 *.LCK
-*.MD
+1cv7.MD
 *.DD
 *.DDS
 *.lst
