@@ -1,7 +1,8 @@
-NEWSTRU/
+NEW_STRU/
 report/
 syslog/
 *.LCK
+*.ORD
 *.MD
 *.DD
 *.DDS
