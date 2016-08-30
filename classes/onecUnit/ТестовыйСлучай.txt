@@ -1,5 +1,5 @@
 
-// vim: syntax=1C Enterprise
+// vim: syntax=bsl
 
 Перем Проверить Экспорт;
 Перем мИмяТестовогоМетода;
