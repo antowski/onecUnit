@@ -1,4 +1,4 @@
-NEWSTRU/
+NEW_STRU/
 report/
 syslog/
 *.LCK
@@ -10,3 +10,4 @@ syslog/
 *.DBF
 *.CDX
 *.st
+turbomd.prm
