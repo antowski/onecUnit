@@ -2,6 +2,7 @@ NEW_STRU/
 report/
 syslog/
 *.LCK
+*.ORD
 1cv7.MD
 *.DD
 *.DDS
@@ -11,3 +12,4 @@ syslog/
 *.CDX
 *.st
 turbomd.prm
+
