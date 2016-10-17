@@ -11,3 +11,5 @@ syslog/
 *.DBF
 *.CDX
 *.st
+turbomd.prm
+
