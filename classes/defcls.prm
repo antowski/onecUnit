@@ -1,2 +1,3 @@
 //#include onecUnit/defcls.prm
 //#include del/defcls.prm
+Класс ПодписчикРезультата = ПодписчикРезультата.txt {};
